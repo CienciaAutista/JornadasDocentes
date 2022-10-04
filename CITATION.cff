@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: 
+"Si utilizas el contenido de este repositorio, por favor citalo como indicamos debajo, muchas gracias 
+"If you use this content, please cite it as below. Thank you"
+authors:
+- family-names: "García Betoño"
+  given-names: "María Inés"
+ 
+- family-names: "Sille"
+  given-names: "Irene"
+  
+  - family-names: "Salami Bilibio"
+  given-names: "Lorena"
+  
+title: "JornadasDocentes"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2022-10-04
+url: "https://github.com/CienciaAutista/JornadasDocentes"
