@@ -5,13 +5,13 @@ message:
 authors:
 - family-names: "García Betoño"
   given-names: "María Inés"
-  orcid:
+  orcid:""
 - family-names: "Sille"
   given-names: "Irene"
-  orcid:
+  orcid:""
 - family-names: "Salami Bilibio"
   given-names: "Lorena"
-  orcid:
+  orcid:""
 title: "JornadasDocentes"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
