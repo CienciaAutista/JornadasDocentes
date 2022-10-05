@@ -1,19 +1,8 @@
-cff-version: 1.2.0
-message: 
-"Si utilizas el contenido de este repositorio, por favor citalo como indicamos debajo, muchas gracias" 
-"If you use this content, please cite it as below. Thank you"
-authors:
-- family-names: "García Betoño"
-  given-names: "María Inés"
-  orcid:""
-- family-names: "Sille"
-  given-names: "Irene"
-  orcid:""
-- family-names: "Salami Bilibio"
-  given-names: "Lorena"
-  orcid:""
-title: "JornadasDocentes"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2022-10-04
-url: "https://github.com/CienciaAutista/JornadasDocentes"
+@article{Estudio preliminar sobre las trayectorias académicas de neurodivergencias, con énfasis en personas autistas, en la educación superior de Argentina e Hispanoamérica_2022,
+  author = {Sille, Irene; Fernandez, Silvia; García Betoño, María Inés and Salami Bilibio, Lorena},
+  doi = {10.0000/00000},
+  journal = {4º Jornadas sobre las Prácticas Docentes en la Universidad Pública},
+  month = {9},
+  title = {{Estudio preliminar sobre las trayectorias académicas de neurodivergencias, con énfasis en personas autistas, en la educación superior de Argentina e Hispanoamérica}},
+  year = {2022}
+}
