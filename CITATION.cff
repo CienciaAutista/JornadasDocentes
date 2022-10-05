@@ -1,9 +1,0 @@
-cff-version: 1.1.0
-message: "If you use this repository, please cite it as below."
-authors:
-  - family-names: García Betoño
-    given-names: María Inés
-    orcid: https://orcid.org/0000-0001-9527-8731
-title: CienciaAutista/JornadasDocentes: Repositorio Jornadas Docentes
-version: Citenme!
-date-released: 2022-10-05
