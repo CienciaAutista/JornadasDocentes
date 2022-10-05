@@ -1,8 +1,9 @@
-@article{Estudio preliminar sobre las trayectorias académicas de neurodivergencias, con énfasis en personas autistas, en la educación superior de Argentina e Hispanoamérica_2022,
-  author = {Sille, Irene; Fernandez, Silvia; García Betoño, María Inés and Salami Bilibio, Lorena},
-  doi = {10.0000/00000},
-  journal = {4º Jornadas sobre las Prácticas Docentes en la Universidad Pública},
-  month = {9},
-  title = {{Estudio preliminar sobre las trayectorias académicas de neurodivergencias, con énfasis en personas autistas, en la educación superior de Argentina e Hispanoamérica}},
-  year = {2022}
-}
+cff-version: 1.1.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: García Betoño
+    given-names: María Inés
+    orcid: https://orcid.org/0000-0001-9527-8731
+title: CienciaAutista/JornadasDocentes: Repositorio Jornadas Docentes
+version: Citenme!
+date-released: 2022-10-05
