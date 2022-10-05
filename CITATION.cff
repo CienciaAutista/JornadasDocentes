@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "Please cite me up, or horrible things may happen to you... like not understanding where the error is in your code! * devilish laugh*"
+authors:
+  - family-names: Garcia Betono
+    given-names: Maria Ines
+    orcid: https://orcid.org/0000-0001-9527-8731
+title: CienciaAutista/JornadasDocentes: Cita del Repositorio
+version: Citenme!
+date-released: 2022-10-05
