@@ -1,6 +1,6 @@
 @article{Ciencia_Autista_2022,
   author = {Sille I, Fernandez S, Garcia Betono MI and Salami Bilibio, Lena},
-  doi = {10.5281/zenodo.7148483},
+  doi = { [![DOI](https://zenodo.org/badge/545756675.svg)](https://zenodo.org/badge/latestdoi/545756675)}
   month = {9},
   title = {{Estudio preliminar sobre las trayectorias académicas de neurodivergencias, con énfasis en personas autistas, en la educación superior de Argentina e Hispanoamérica}},
   url = {https://github.com/CienciaAutista/JornadasDocentes},
