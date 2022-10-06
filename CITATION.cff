@@ -1,9 +1,9 @@
-cff-version: 1.1.0
-message: "Please cite me up, or horrible things may happen to you... like not understanding where the error is in your code! * devilish laugh*"
-authors:
-  - family-names: García Betoño
-    given-names: María Inés
-    orcid: 0000-0001-9527-8731
-title: CienciaAutista/JornadasDocentes: Repositorio Ciencia Autista: Jornadas Docentes
-version: Zip
-date-released: 2022-10-05
+@article{Ciencia_Autista_2022,
+  author = {Sille I, Fernandez S, Garcia Betono MI and Salami Bilibio, Lena},
+  doi = {10.5281/zenodo.7148483},
+  month = {9},
+  title = {{Estudio preliminar sobre las trayectorias académicas de neurodivergencias, con énfasis en personas autistas, en la educación superior de Argentina e Hispanoamérica}},
+  url = {https://github.com/CienciaAutista/JornadasDocentes},
+  version = {2.0.4},
+  year = {2022}
+}
